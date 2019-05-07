@@ -88,6 +88,8 @@ cmake-buildTool-debug/
 
 # IntelliJ
 /out/
+build/
+.idea/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -187,3 +189,5 @@ nbdist/
 .idea/codeStyles/codeStyleConfig.xml
 .editorconfig
 gradle/wrapper/gradle-wrapper.jar
+.idea/vcs.xml
+.idea/vcs.xml
